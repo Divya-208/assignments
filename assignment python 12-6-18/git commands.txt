@@ -1,0 +1,17 @@
+git commands-
+git config --global user.email "divyagulati61@gmail.com"
+git init
+git add .
+git status
+git comit-m "initial file"
+git log .
+git remote add origin (link box)
+git push origin master
+
+
+
+
+update on
+git add .
+git comit -m "new msg"
+git push origin master.
