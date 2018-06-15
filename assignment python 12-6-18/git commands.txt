@@ -1,4 +1,4 @@
-git commands-
+ git commands-
 git config --global user.email "divyagulati61@gmail.com"
 git init
 git add .
